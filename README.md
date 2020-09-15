@@ -1,6 +1,6 @@
 **Employee Tracker**
 
-![gif](Employee-Management-System\Assets\employee-tracker.gif)
+![gif]("Employee-Management-System\Assets\employee-tracker.gif")
 
 <h2 align="center">
 <img alt="schema" src="Employee-Management-System\Assets\schema.png" width="50%">
