@@ -1,6 +1,6 @@
 **Employee Tracker**
 
-![gif](client/public/images/employee-tracker.gif)
+![gif](client/public/images/employee.tracker.gif)
 
 <h2 align="center">
 <img alt="schema" src="client/public/images/schema.png" width="50%">
